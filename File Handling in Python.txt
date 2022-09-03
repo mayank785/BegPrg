@@ -1,0 +1,21 @@
+File Handling in Python - 
+
+Modes in python for file handling : 
+
+1. read - "r"
+2. read (binary) - "rb"
+3. read + write - "r+"
+4. read + write (binary) - "rb+"
+5. write - "w"
+6. write (binary) - "wb"
+7. write + read - "w+"
+8. write + read (binary) - "wb+"
+9. append - "a"
+10. append (binary) - "ab"
+11. append + read - "a+"
+12. append + read (binary) - "ab+"
+
+
+
+
+
